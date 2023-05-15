@@ -11,6 +11,8 @@ joblib==1.2.0
 nltk==3.8.1
 pbr==5.11.1
 platformdirs==3.1.1
+pysqlite3==0.5.0
+pysqlite3-binary==0.5.0
 python-dotenv==1.0.0
 regex==2022.10.31
 sqlparse==0.4.3
