@@ -134,7 +134,7 @@ def login_view(request):
 				return redirect('animation')
 	else:
 		form = AuthenticationForm()
-	return render(request,'login.html',{'form':form})
+	return render(request,'            login.html',{'form':form})
 
 
 def logout_view(request):
